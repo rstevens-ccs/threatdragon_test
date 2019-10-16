@@ -5,11 +5,7 @@
     "description": "blah blah blah"
   },
   "detail": {
-    "contributors": [
-      {
-        "name": "me"
-      }
-    ],
+    "contributors": [],
     "diagrams": [
       {
         "title": "test 1",
