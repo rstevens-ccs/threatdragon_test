@@ -20,17 +20,17 @@
                 "height": 100
               },
               "position": {
-                "x": 540,
-                "y": 220
+                "x": 640,
+                "y": 180
               },
               "angle": 0,
               "id": "9b2acd3c-789a-431f-ac3f-b6d6fa20e89b",
               "z": 1,
               "hasOpenThreats": false,
-              "outOfScope": true,
+              "outOfScope": false,
               "attrs": {
                 ".element-shape": {
-                  "class": "element-shape hasNoOpenThreats isOutOfScope"
+                  "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
                   "text": "Web front end"
@@ -47,19 +47,22 @@
                 "height": 80
               },
               "position": {
-                "x": 890,
-                "y": 270
+                "x": 930,
+                "y": 160
               },
               "angle": 0,
               "id": "3cad8575-7329-4b09-a379-c11f078a9bb4",
               "z": 2,
               "hasOpenThreats": false,
+              "storesCredentials": true,
+              "isEncrypted": false,
+              "isSigned": false,
               "attrs": {
                 ".element-shape": {
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "store 1"
+                  "text": "SQL DB"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
@@ -73,8 +76,8 @@
                 "height": 80
               },
               "position": {
-                "x": 660,
-                "y": 580
+                "x": 580,
+                "y": 430
               },
               "angle": 0,
               "id": "4a5c9081-5f8b-4d96-b829-fd1493ecdb9f",
